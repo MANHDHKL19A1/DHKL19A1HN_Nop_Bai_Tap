@@ -1,0 +1,9 @@
+Học phần: Tin cơ sở cho ngành KHDL
+<<<<<<< HEAD
+Giảng viên: Lê Hằng Anh
+=======
+
+Giảng viên: Lê Hằng Anh
+
+>>>>>>> branch_4
+Cras ac mi nec nisi porta ultrices sed non ante.

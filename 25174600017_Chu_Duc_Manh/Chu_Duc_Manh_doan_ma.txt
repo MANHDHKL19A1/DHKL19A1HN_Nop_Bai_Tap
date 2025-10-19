@@ -1,0 +1,6 @@
+Học phần: Tin cơ sở cho ngành KHDL
+Giảng viên: Lê Hằng Anh
+
+Đoạn mã thực hiện các bài 1 đến 9 nằm trong file hướng dẫn tự động.
+
+Hoàn thành bởi: Chu Đức Mạnh - 25174600017
